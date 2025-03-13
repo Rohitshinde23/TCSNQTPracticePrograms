@@ -1,4 +1,4 @@
-public class ArraySum {
+public class Sum2 {
     public static int findSum(int[] arr, int n) {
         int sum = 0; // Variable to store the sum of elements
 
